@@ -1,13 +1,13 @@
 # 🧮 Calculadora de Índice de Massa Corporal
 
-Este projeto, calcula o índice de massa de um corpo a partir das informações concedidas, sejam metricas ou impreriais dependendo da escolha do usuário. Retornando, assim, o resultado.
+Este projeto, calcula o índice de massa de um corpo a partir das informações concedidas, sejam métricas ou impreriais dependendo da escolha do usuário. Retornando, assim, o resultado.
 Neste foi utilizado uma pitada de Programação Orientada a Objetos (POO), na qual estou começando agora.
 
 ## ✏️ Fórmulas utilizadas
 
-Neste projeto, fiz a utilização de duas formulas matemáticas:
+Neste projeto, fiz a utilização de duas fórmulas matemáticas:
 
-| Fórmula de Medida Metrica |
+| Fórmula de Medida Métrica |
 |---------------------------|
 | IMC = (Peso (KG) / Altura (Metros)²) |
 
