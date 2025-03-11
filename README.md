@@ -7,11 +7,13 @@ Neste foi utilizado uma pitada de Programação Orientada a Objetos (POO), na qu
 
 Neste projeto, fiz a utilização de duas formulas matemáticas:
 
-| Fórmula de Medida Metrica |.|
-| IMC = (Peso (KG) / Altura (Metros)²) |.|
+| Fórmula de Medida Metrica |
+|---------------------------|
+| IMC = (Peso (KG) / Altura (Metros)²) |
 
-| Fórmula de Medida Imperial |.|
-| IMC = (Peso (Libras) / Altura (Polegadas)²) * 703 |.|
+| Fórmula de Medida Imperial |
+|----------------------------|
+| IMC = (Peso (Libras) / Altura (Polegadas)²) * 703 |
 
 
 Projeto feito no curso de Desenvolvedor de Software Júnior, ministrado pela Amazon, Coursera.
