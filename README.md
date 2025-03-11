@@ -15,6 +15,14 @@ Neste projeto, fiz a utilização de duas formulas matemáticas:
 |----------------------------|
 | IMC = (Peso (Libras) / Altura (Polegadas)²) * 703 |
 
+## 💻 Linguagens de Programação Utilizadas
+
+| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java Logo" width=50> |
+|----------------------------|
+| Java |
+
+
+#
 
 Projeto feito no curso de Desenvolvedor de Software Júnior, ministrado pela Amazon, Coursera.
 
