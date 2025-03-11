@@ -17,7 +17,7 @@ Neste projeto, fiz a utilização de duas formulas matemáticas:
 
 ## 💻 Linguagens de Programação Utilizadas
 
-| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java Logo" width=50> |
+| <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java Logo" href="https://www.java.com" width=50> |
 |----------------------------|
 | Java |
 
